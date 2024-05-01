@@ -6,8 +6,7 @@
 
 In this tutorial (link provided below), I explain how to create multiple Kubernetes Clusters using Oracle Kubernetes Engine (OKE) and I will be deploying these clusters in three different countries (regions). To speed up the deployment, and to deploy the Kubernetes Clusters consistently with the least amount of configuration mistakes I am using Terraform and some custom bash scripts.
 
-Use Terraform to deploy multiple Kubernetes Clusters across different OCI Regions using the Oracle Container Engine for Kubernetes (OKE) and create a full mesh network using Remote Peering Connections (RPC)
-** ADD LINK OF TUTORIAL WHEN PUBLISHED ** 
+[** Use Terraform to deploy multiple Kubernetes Clusters across different OCI Regions using the Oracle Container Engine for Kubernetes (OKE) and create a full mesh network using Remote Peering Connections (RPC) ** ](https://docs.oracle.com/en/learn/oci-oke-multicluster-k8s-terraform)
 
 The Terraform and Bash scripts provided in this GitHub repository, are created to complement the following tutorial:
 
