@@ -8,7 +8,6 @@ In this tutorial (link provided below), I explain how to create multiple Kuberne
 
 [![Use Terraform to deploy multiple Kubernetes Clusters across different OCI Regions using the Oracle Container Engine for Kubernetes (OKE) and create a full mesh network using Remote Peering Connections (RPC)]([https://sonarcloud.io/api/project_badges/quality_gate?project=oracle-devrel_oci-oke-terraform)](https://sonarcloud.io/dashboard?id=oracle-devrel_oci-oke-terraform](https://docs.oracle.com/en/learn/oci-oke-multicluster-k8s-terraform/#introduction)
 
-
 The Terraform and Bash scripts provided in this GitHub repository, are created to complement the following tutorial:
 
 ## Contributing
